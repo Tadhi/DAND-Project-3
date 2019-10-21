@@ -8,6 +8,11 @@
 
 >For this project, I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
+# Technologies Used
+- Python " Numpy, Pandas, Matplotlib, random, and StatsModel ".
+- Jupyter Notebook.
+- CSV Files.
+
 # Process
 ## Part I - Probability
 >Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
@@ -25,6 +30,6 @@
 # Conclusions
 >From the regression result, I figure out that the p-value is higher in UK than in Canada, which means that users in the UK are more likely to convert, but still not enough evidence to reject the null hypothesis.
 
->will fail to reject the null and conclude that there is not sufficient evidence to suggest that there is an interaction between country and page received that will predict whether a user converts or not.
+>Will fail to reject the null and conclude that there is not sufficient evidence to suggest that there is an interaction between country and page received that will predict whether a user converts or not.
 
 >Also,there is no sufficient evidence to suggest that the new page results in more conversions than the old page.
