@@ -14,7 +14,7 @@
 >Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
 
 ## Part II - A/B Test
-> Next, hypothesis testing was conducted assuming the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%.
+> Next, hypothesis testing was conducted assuming the old page is better unless the new page proves to be definitely better at a type I error rate of 5%.
 
 >The data was bootstrapped and sampling distributions were determined for both pages. Conclusions were drawn on conversions for both pages by calculating p-values.
 
