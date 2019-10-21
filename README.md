@@ -6,10 +6,10 @@
 
 >The project conducted A/B testing of user conversions on an old and new wepage.
 
-For this project, I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+>For this project, I will be working to understand the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # Process
-##- Part I - Probability
+-## Part I - Probability
 >Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
 
 - Part II - A/B Test
